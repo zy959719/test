@@ -2,4 +2,4 @@
 %%三绳索并联机器人运动学反解
 %%六自由度并联机器人运动学反解
 
-function inv_return=
+function inv_return=stew_inverse(xa,ya,xb,yb,pitch,roll,yaw,px,py,pz)
